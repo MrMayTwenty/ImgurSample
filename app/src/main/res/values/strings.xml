@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImgurSample2</string>
+    <string name="pick_file">Pick File</string>
+    <string name="upload_image_to_imgur">Upload Image to IMGUR</string>
+</resources>

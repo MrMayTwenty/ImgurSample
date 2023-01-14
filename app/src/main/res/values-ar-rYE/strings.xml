@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ImgurSample2</string>
+    <string name="pick_file">Arabic pick file</string>
+    <string name="upload_image_to_imgur">Alahu Akbar</string>
+</resources>
